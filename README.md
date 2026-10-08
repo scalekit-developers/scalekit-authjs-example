@@ -2,6 +2,8 @@
 
 A minimal Next.js application demonstrating enterprise SSO via [Scalekit](https://scalekit.com) using [Auth.js](https://authjs.dev) (next-auth v5).
 
+Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+
 ## Prerequisites
 
 - A [Scalekit](https://scalekit.com) account and environment
